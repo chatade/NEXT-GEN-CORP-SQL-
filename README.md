@@ -1,4 +1,4 @@
-# NextGen HR Analytics - PostgreSQ
+# NextGen HR Analytics - PostgreSQL
 
 ## Overview
 
